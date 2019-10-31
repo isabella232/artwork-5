@@ -1,0 +1,2 @@
+# artwork
+GraphQL Foundation artwork
