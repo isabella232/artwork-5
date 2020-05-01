@@ -6,13 +6,11 @@ Note: GitHub Flavored Markdown used in the Readme doesn't support background col
 
 <table style="text-align:center">
 	<tr>
-		<th colspan=3>
-	</tr>
 		<th></th>
-		<th width="150">RGB</th>
-		<th width="150">CMYK</th>
-		<th width="150">Pantone</th>
-		<th width="150">Hex</th>
+		<th width="175">RGB</th>
+		<th width="175">CMYK</th>
+		<th width="175">Pantone</th>
+		<th width="175">Hex</th>
 	</tr>
 		<td><img src="./other/E434AA.svg" width="20"></td>
 		<td>(228, 52, 170)</td>
